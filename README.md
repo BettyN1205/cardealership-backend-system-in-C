@@ -5,7 +5,7 @@ Implemented a vehicle inventory management system, including:
 2. Total inventory allocation to branch inventory;
 3. Inventory transfer between branch inventories;
 4. A simple Branches to Customer Sale System
-   
+
 ======================== BN Inventory Management Headquarters ========================
       <1> Sale a car to Branch
       <2> Add new cars and show
@@ -14,6 +14,10 @@ Implemented a vehicle inventory management system, including:
       <5> Branches to Customer Sale System
       <6> Search Engine
       <7> Exit
+
+
+   
+
         
 
 =========================================================================================
