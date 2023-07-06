@@ -1,22 +1,13 @@
 # cardealership-backend-system-in-C
 
+======================== BN Inventory Management Headquarters ========================
 Implemented a vehicle inventory management system, including: 
 1. Total inventory and branch inventory management (CRUD);
 2. Total inventory allocation to branch inventory;
 3. Inventory transfer between branch inventories;
 4. A simple Branches to Customer Sale System
+5. A simple Search Engine
 
-======================== BN Inventory Management Headquarters ========================
-      <1> Sale a car to Branch
-      <2> Add new cars and show
-      <3> Transfer stock beetween Branches
-      <4> View Branches info
-      <5> Branches to Customer Sale System
-      <6> Search Engine
-      <7> Exit
-
-
-   
 
         
 
