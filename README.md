@@ -7,13 +7,13 @@ Implemented a vehicle inventory management system, including:
 4. A simple Branches to Customer Sale System
    
 ======================== BN Inventory Management Headquarters ========================
-        printf("\n\t\tPress <1> Sale a car to Branch");
-        printf("\n\t\tPress <2> Add new cars and show");
-        printf("\n\t\tPress <3> Transfer stock beetween Branches");
-        printf("\n\t\tPress <4> View Branches info");
-        printf("\n\t\tPress <5> Branches to Customer Sale System");
-        printf("\n\t\tPress <6> Search Engine");
-        printf("\n\t\tPress <7> Exit");
+      <1> Sale a car to Branch
+      <2> Add new cars and show
+      <3> Transfer stock beetween Branches
+      <4> View Branches info
+      <5> Branches to Customer Sale System
+      <6> Search Engine
+      <7> Exit
         
 
 =========================================================================================
